@@ -1,4 +1,5 @@
-📊 E-Commerce User Behavior & Sales Analysis
+📊 E-Commerce Data Analysis
+
 📌 Project Overview
 
 This project analyzes an e-commerce platform’s data to understand customer behavior, conversion performance, revenue drivers, and retention patterns using Python.
